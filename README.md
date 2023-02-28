@@ -28,5 +28,8 @@ The crowdsale contract that is created will manage the entire crowdsale process,
 
 
 ## Contributor
-Cesar Sandiford 
+Cesar Sandiford cesarsandiford@outlook.com
+
+## Purpose
+Use only for academic purposes
 
