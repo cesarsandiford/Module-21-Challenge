@@ -31,5 +31,5 @@ The crowdsale contract that is created will manage the entire crowdsale process,
 Cesar Sandiford cesarsandiford@outlook.com
 
 ## Purpose
-Use only for academic purposes
+Use only for academic purposes.
 
